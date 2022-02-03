@@ -3470,10 +3470,12 @@ flexibility(document.documentElement);
 
                                                                         <div class="guestbook-box-content elementor-comment-box-wrapper" data-id="asihdodi">
                                                                             <div class="comment-form-container">
-                                                                                <form id="post-guestbook-box">
+                                                                                <form id="post-guestbook">
                                                                                     <div class="guestbook-label">
                                                                                         <label class="elementor-screen-only">
                                                                                             Nama </label></div>
+                                                                                    <input type="hidden" name="_token" id="token" value="{{ csrf_token() }}">
+
                                                                                     <input class="form-control" type="text" name="guestbook-name" placeholder="Tulis Nama" required>
 
                                                                                     <div class="guestbook-label">
@@ -3481,7 +3483,7 @@ flexibility(document.documentElement);
                                                                                             Pesan </label></div>
                                                                                     <textarea class="form-control" rows="3" name="guestbook-message" placeholder="Sampaikan Pesan dan Ucapan" required></textarea>
                                                                                     <div class="elementor-button-wrapper">
-                                                                                        <button type="submit" class="elementor-button-link elementor-button elementor-size-sm">
+                                                                                        <button class="elementor-button-link elementor-button elementor-size-sm">
                                                                                             Kirim Ucapan </button>
                                                                                     </div>
                                                                                 </form>
