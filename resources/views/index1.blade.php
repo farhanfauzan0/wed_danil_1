@@ -3476,12 +3476,12 @@ flexibility(document.documentElement);
                                                                                             Nama </label></div>
                                                                                     <input type="hidden" name="_token" id="token" value="{{ csrf_token() }}">
 
-                                                                                    <input class="form-control" type="text" name="guestbook-name" placeholder="Tulis Nama" required>
+                                                                                    <input class="form-control" type="text" name="guestbook_name" placeholder="Tulis Nama" required>
 
                                                                                     <div class="guestbook-label">
                                                                                         <label class="elementor-screen-only">
                                                                                             Pesan </label></div>
-                                                                                    <textarea class="form-control" rows="3" name="guestbook-message" placeholder="Sampaikan Pesan dan Ucapan" required></textarea>
+                                                                                    <textarea class="form-control" rows="3" name="guestbook_message" placeholder="Sampaikan Pesan dan Ucapan" required></textarea>
                                                                                     <div class="elementor-button-wrapper">
                                                                                         <button class="elementor-button-link elementor-button elementor-size-sm">
                                                                                             Kirim Ucapan </button>
