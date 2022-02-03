@@ -2304,8 +2304,8 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-element elementor-element-63e33f1 elementor-view-default wdp-sticky-section-no elementor-widget elementor-widget-icon" data-id="63e33f1" data-element_type="widget" data-widget_type="icon.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-icon-wrapper">
-                                                                            <a class="elementor-icon" href="https://www.instagram.com/meypspita/" target="_blank" rel="noopener">
-                                                                                <i aria-hidden="true" class="fab fa-instagram"></i> </a>
+                                                                            {{-- <a class="elementor-icon" href="https://www.instagram.com/meypspita/" target="_blank" rel="noopener">
+                                                                                <i aria-hidden="true" class="fab fa-instagram"></i> </a> --}}
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -2373,8 +2373,8 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-element elementor-element-1e1c0f2 elementor-view-default wdp-sticky-section-no elementor-widget elementor-widget-icon" data-id="1e1c0f2" data-element_type="widget" data-widget_type="icon.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-icon-wrapper">
-                                                                            <a class="elementor-icon" href="https://www.instagram.com/danbasyar/" target="_blank" rel="noopener">
-                                                                                <i aria-hidden="true" class="fab fa-instagram"></i> </a>
+                                                                            {{-- <a class="elementor-icon" href="https://www.instagram.com/danbasyar/" target="_blank" rel="noopener">
+                                                                                <i aria-hidden="true" class="fab fa-instagram"></i> </a> --}}
                                                                         </div>
                                                                     </div>
                                                                 </div>
