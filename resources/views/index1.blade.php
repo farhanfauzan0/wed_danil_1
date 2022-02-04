@@ -33,15 +33,15 @@
     <meta property="og:locale" content="id_ID">
     <meta property="og:type" content="article">
     <meta property="og:title" content="Intan & Rian Invitation">
-    <meta property="og:description" content="Invitation">
+    <meta property="og:description" content="27 Februari 2022">
     <meta property="og:url" content="https://intan-rian.subredtis.com/">
-    <meta property="og:site_name" content="Intan & Rian Invitation">
+    <meta property="og:site_name" content="Intan & Rian Wedding">
     <meta property="article:tag" content="protokol indonesia">
     <meta property="article:section" content="Intan">
     {{-- <meta property="og:updated_time" content="2021-07-31T14:22:17+07:00"> --}}
     <meta property="og:image" itemprop="image" content="{{ asset('img/g3p.jpg') }}">
-    <meta property="og:image:secure_url" content="{{ asset('img/g3p.jpg') }}">
-    <meta property="og:image:width" content="533">
+    <meta property="og:image:secure_url" itemprop="image" content="{{ asset('img/g3p.jpg') }}">
+    <meta property="og:image:width" content="800">
     <meta property="og:image:height" content="800">
     <meta property="og:image:alt" content="Intan & Rian">
     <meta property="og:image:type" content="image/jpeg">
