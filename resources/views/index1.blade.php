@@ -3253,8 +3253,8 @@ flexibility(document.documentElement);
                                                         <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="{{ asset('img/g7.jpg') }}" data-width="768" data-height="410" alt=""></div>
                                                         <div class="elementor-gallery-item__overlay"></div>
                                                     </a>
-                                                    <a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="{{ asset('img/g8.jpg') }}" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-678ba93" data-elementor-lightbox-title="foto (1)">
-                                                        <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="{{ asset('img/g8.jpg') }}" data-width="768" data-height="410" alt=""></div>
+                                                    <a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="{{ asset('img/g812.jpg') }}" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-678ba93" data-elementor-lightbox-title="foto (1)">
+                                                        <div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="{{ asset('img/g812.jpg') }}" data-width="768" data-height="410" alt=""></div>
                                                         <div class="elementor-gallery-item__overlay"></div>
                                                     </a>
                                                 </div>
