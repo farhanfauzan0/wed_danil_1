@@ -31,7 +31,7 @@
     <meta name="description" content="Invitation" />
     <meta name="robots" content="nofollow, noindex, noarchive, noimageindex" />
     <meta property="og:locale" content="en_US">
-    <meta property="og:type" content="article">
+    <meta property="og:type" content="website">
     <meta property="og:title" content="Intan & Rian Invitation">
     <meta property="og:description" content="Invitation">
     <meta property="og:url" content="https://intan-rian.subredtis.com/">
@@ -39,8 +39,8 @@
     <meta property="article:tag" content="protokol indonesia">
     <meta property="article:section" content="Intan">
     <meta property="og:updated_time" content="2021-07-31T14:22:17+07:00">
-    <meta property="og:image" content="{{ asset('img/g4.jpg') }}">
-    <meta property="og:image:secure_url" content="{{ asset('img/g4.jpg') }}">
+    <meta property="og:image" itemprop="image" content="{{ asset('img/g3p.jpg') }}">
+    <meta property="og:image:secure_url" content="{{ asset('img/g3p.jpg') }}">
     <meta property="og:image:width" content="533">
     <meta property="og:image:height" content="800">
     <meta property="og:image:alt" content="Intan & Rian">
@@ -48,7 +48,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Intan & Rian Invitation">
     <meta name="twitter:description" content="Invitation">
-    <meta name="twitter:image" content="{{ asset('img/g4.jpg') }}">
+    <meta name="twitter:image" content="{{ asset('img/g3p.jpg') }}">
     <!-- /Rank Math WordPress SEO plugin -->
 
     <link rel='dns-prefetch' href='//fonts.googleapis.com' />
