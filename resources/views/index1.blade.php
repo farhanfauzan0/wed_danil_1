@@ -2319,7 +2319,7 @@ flexibility(document.documentElement);
                                                                 <div class="elementor-element elementor-element-9956809 wdp-sticky-section-no elementor-widget elementor-widget-text-editor" data-id="9956809" data-element_type="widget" data-widget_type="text-editor.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-text-editor elementor-clearfix">
-                                                                            <p>Putri Pertama dari<br /><span data-sheets-value="{" data-sheets-userformat="{">Bapak Ade Jajat<br /></span>&amp;<br /><span data-sheets-value="{" data-sheets-userformat="{">Ibu Nani Nuryaningsih</span></p>
+                                                                            <p>Putri Pertama dari<br /><span data-sheets-value="{" data-sheets-userformat="{">Bapak Ade Jajat<br /></span>&amp;<br /><span data-sheets-value="{" data-sheets-userformat="{">Ibu Nani Suryaningsih</span></p>
                                                                         </div>
                                                                     </div>
                                                                 </div>
