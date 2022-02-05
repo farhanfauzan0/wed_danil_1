@@ -2581,7 +2581,7 @@ flexibility(document.documentElement);
                                                                                 <span class="elementor-icon-list-text">Kediaman Mempelai Wanita</span>
                                                                             </li>
                                                                             <li class="elementor-icon-list-item">
-                                                                                <span class="elementor-icon-list-text">Kp.Selamuncang RT/RW 001/002 Desa Ubrug, Kec. Warungkiara, Kab. Sukabumi</span>
+                                                                                <span class="elementor-icon-list-text">Kp.Salamuncang RT/RW 001/002 Desa Ubrug, Kec. Warungkiara, Kab. Sukabumi</span>
                                                                             </li>
                                                                         </ul>
                                                                     </div>
@@ -2676,7 +2676,7 @@ flexibility(document.documentElement);
                                                                                 <span class="elementor-icon-list-text">Kediaman Mempelai Wanita</span>
                                                                             </li>
                                                                             <li class="elementor-icon-list-item">
-                                                                                <span class="elementor-icon-list-text">Kp.Selamuncang RT/RW 001/002 Desa Ubrug, Kec. Warungkiara, Kab. Sukabumi</span>
+                                                                                <span class="elementor-icon-list-text">Kp.Salamuncang RT/RW 001/002 Desa Ubrug, Kec. Warungkiara, Kab. Sukabumi</span>
                                                                             </li>
                                                                         </ul>
                                                                     </div>
